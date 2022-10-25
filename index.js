@@ -22,6 +22,11 @@ app.get('/all-courses/:id', (req, res) => {
 	res.send(singleCourse);
 });
 
+// Get course details
+app.get('/course-details', (req, res) => {
+	res.send(courseDetails);
+});
+
 // Get course details by course details id
 app.get('/course-details/:id', (req, res) => {
 	const id = req.params.id;
@@ -29,12 +34,6 @@ app.get('/course-details/:id', (req, res) => {
 	if (!details) res.status(404).send('The course with the given ID was not found.');
 	res.send(details);
 });
-
-// Get course details
-app.get('/course-details', (req, res) => {
-	res.send(courseDetails);
-});
-
 
 app.get('/', (req, res) => {
 	res.send('Server is running......!');
