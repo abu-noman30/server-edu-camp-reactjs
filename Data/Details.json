@@ -1,0 +1,232 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "1",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_student": 1253,
+    "course_name": "Ethical Hacking",
+    "instructor": {
+      "name": "Prof. Kunal Kushwaha",
+      "published_date": "2022-08-24 17:27:34",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=900&t=st=1666635014~exp=1666635614~hmac=11e90bad87edaafaad789221699e9d3d20fdfd799f02332b685d3a127ea3ba21",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of Ethical Hacking and Cyber Security.",
+    "course_description": "Ethical hacking is the practice of penetrating computer systems and networks to find security vulnerabilities that a malicious hacker could potentially exploit. Ethical hackers are often employed by companies to test their own security systems, but they can also be hired by companies to test the security of their competitors' systems. Ethical hackers are also employed by governments to test the security of their own systems and those of other governments. Ethical hackers are also employed by governments to test the security of their own systems and those of other governments.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "2",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_student": 1524,
+    "course_name": "Python",
+    "instructor": {
+      "name": "Prof. Zaid Sabih",
+      "published_date": "2022-08-24 17:27:34",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1060",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of Python Programming Language.",
+    "course_description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "3",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "total_student": "945",
+    "course_name": "Machine Learning",
+    "instructor": {
+      "name": "Prof. Ermin Kreponic",
+      "published_date": "2022-08-30 16:38:45",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/digital-technology-face-artificial-intelligence_1017-21770.jpg?w=1060&t=st=1666636402~exp=1666637002~hmac=4347ab7a5b598287a083e16d86ad50360568cf07ec1fecba9d77cb71b71ff200",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of Machine Learning.",
+    "course_description": "Machine learning is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as 'training data', in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop conventional algorithms to perform the needed tasks.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "4",
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "total_student": 2432,
+    "course_name": "Web Development",
+    "instructor": {
+      "name": "Prof. Aldin Omerdic",
+      "published_date": "2022-08-30 16:38:45",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/software-development-isometric-landing-page-website-program-coding-cross-platform-algorithm-programming-languages-interface-computer-screen-technology-process-app-creation-3d-banner_107791-4329.jpg?w=900&t=st=1666636425~exp=1666637025~hmac=da35efa852d24b4c7b768c5e57386cc04aabf97a4c4ade9c18b26075c0516990",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of Web Development.",
+    "course_description": "Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing the simplest static single page of plain text to the most complex web-based internet applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include web engineering, web design, web content development, client liaison, client-side/server-side scripting, web server and network security configuration, and e-commerce development. Among Web professionals, 'Web development' usually refers to the main non-design aspects of building Web sites: writing markup and coding. Most recently Web development has come to mean the creation of content management systems or CMS. These CMS can be made from scratch, proprietary or open source. In broad terms the CMS acts as middleware between the database and the user through the browser. A principle benefit of a CMS is that it allows non-technical people to make changes to their Web site without having technical knowledge.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "course_id": "5",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_student": 1231,
+    "course_name": "Android Development",
+    "instructor": {
+      "name": "Prof. John Maina M.",
+      "published_date": "2022-08-24 23:15:00",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=900&t=st=1666636668~exp=1666637268~hmac=7a0dc2b2bb1aee762897e1447e723cdf7dc13a1e3c040b7d89f8e254a7426337",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of Android Development.",
+    "course_description": "Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and other open source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "course_id": "6",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_student": 894,
+    "course_name": "Data Science",
+    "instructor": {
+      "name": "Prof. Thamsanqa M.",
+      "published_date": "2022-08-24 23:15:00",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/data-science-programming_39422-1055.jpg?w=900&t=st=1666636348~exp=1666636948~hmac=1f8fb3069521091f5f4ff9f239a2bdcd10d9fbe24fb3d0d71401e8adbfc6df9c",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of Data Science.",
+    "course_description": "Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data. Data science is a concept to unify statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science, in particular from the field of machine learning, classification, cluster analysis, data mining, databases, and visualization.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "7",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_student": 643,
+    "course_name": "Linux Administration",
+    "instructor": {
+      "name": "Prof. Nikunj Krishna R.",
+      "published_date": "2022-08-30 15:00:04",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/gradient-isometric-laptop-technology-background_52683-4501.jpg?w=900&t=st=1666636826~exp=1666637426~hmac=ba779072a30af249bf50c14e4f9992e9a6ee8d8fb3580e23407b366383ffb15b",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of Linux Administration.",
+    "course_description": "Linux is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Many Linux distributions use the word \"Linux\" in their name, but the Free Software Foundation uses the name GNU/Linux to emphasize the importance of GNU software, causing some controversy.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "course_id": "8",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_student": 986,
+    "course_name": "DevOps",
+    "instructor": {
+      "name": "Prof. Anil Kumar",
+      "published_date": "2022-08-25 06:03:00",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/devops-isometric-banner-development-operation_107791-2943.jpg?w=996&t=st=1666636943~exp=1666637543~hmac=d20b4adfd7223820d0c2e7a6ff467795525021ad984344931290b78da713ae24",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of DevOps.",
+    "course_description": "DevOps is a set of practices that combines software development (Dev) and information-technology operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from Agile methodology. DevOps is intended to bring together developers and operations professionals by advocating automation and integration of both cultures, breaking down the traditional barriers between the two teams.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "course_id": "9",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_student": 793,
+    "course_name": "Amazon AWS",
+    "instructor": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "course_duration": "2 Months",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/digital-cloud-computing-technology_1017-31873.jpg?w=900&t=st=1666637016~exp=1666637616~hmac=bc72e3a3a9d00a962bedfa76c040cac6777796b2a29e313c69d800e12f95a904",
+    "will_learn": "At the end of this course, you will be able to understand the concepts of Amazon AWS.",
+    "course_description": "Amazon Web Services (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. These cloud computing web services provide a variety of basic abstract technical infrastructure and distributed computing building blocks and tools. One of these services is Amazon Elastic Compute Cloud (Amazon EC2), which allows users to have at their disposal a virtual cluster of computers, available all the time, through the Internet.",
+    "requirements": [
+      "Basic knowledge of computer",
+      "Basic knowledge of network and internet",
+      "Basic knowledge  of programming"
+    ]
+  }
+]
