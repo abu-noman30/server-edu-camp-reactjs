@@ -35,10 +35,12 @@ app.get('/course-details/:id', (req, res) => {
 	res.send(details);
 });
 
+// Server Testing Route
 app.get('/', (req, res) => {
 	res.send('Server is running......!');
 });
 
+// Server Listening Port
 app.listen(port, () => {
 	console.log(`Server is running at....http://localhost:${port}/ `);
 });
