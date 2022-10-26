@@ -28,7 +28,7 @@ app.get('/course-details', (req, res) => {
 });
 
 // Get course details by course details id
-app.get('/course-details/:id', (req, res) => {
+app.get('/course-enroll/:id', (req, res) => {
 	const id = req.params.id;
 	const details = courseDetails.find((did) => did._id === id);
 	if (!details) res.status(404).send('The course with the given ID was not found.');

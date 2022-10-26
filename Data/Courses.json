@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Ethical Hacking",
-    "img": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=900&t=st=1666635014~exp=1666635614~hmac=11e90bad87edaafaad789221699e9d3d20fdfd799f02332b685d3a127ea3ba21",
+    "img": "https://i.postimg.cc/R0dW1Lrp/01.webp",
     "student": "1253",
     "description": "Ethical hacking is the practice of penetrating computer systems and networks to find security vulnerabilities that a malicious hacker could potentially exploit. Ethical hackers are often employed by companies to test their own security systems, but they can also be hired by companies to test the security of their competitors' systems.",
     "instructor": " Prof. Kunal Kushwaha",
@@ -11,7 +11,7 @@
   {
     "id": "2",
     "name": "Python",
-    "img": "https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1060",
+    "img": "https://i.postimg.cc/GtxG48Pv/02.webp",
     "student": "1524",
     "description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.",
     "instructor": "Prof. Zaid Sabih",
@@ -20,7 +20,7 @@
   {
     "id": "3",
     "name": "Machine Learning",
-    "img": "https://img.freepik.com/free-vector/digital-technology-face-artificial-intelligence_1017-21770.jpg?w=1060&t=st=1666636402~exp=1666637002~hmac=4347ab7a5b598287a083e16d86ad50360568cf07ec1fecba9d77cb71b71ff200",
+    "img": "https://i.postimg.cc/PJBST84h/03.webp",
     "student": "945",
     "description": "Machine learning is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as 'training data', in order to make predictions or decisions without being explicitly programmed to do so.",
     "instructor": " Prof. Ermin Kreponic",
@@ -29,7 +29,7 @@
   {
     "id": "4",
     "name": "Web Development",
-    "img": "https://img.freepik.com/free-vector/software-development-isometric-landing-page-website-program-coding-cross-platform-algorithm-programming-languages-interface-computer-screen-technology-process-app-creation-3d-banner_107791-4329.jpg?w=900&t=st=1666636425~exp=1666637025~hmac=da35efa852d24b4c7b768c5e57386cc04aabf97a4c4ade9c18b26075c0516990",
+    "img": "https://i.postimg.cc/QdXfs5Gg/04.webp",
     "student": "2432",
     "description": " Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing the simplest static single page of plain text to the most complex web-based internet applications, electronic businesses, and social network services.",
     "instructor": " Prof. Aldin Omerdic",
@@ -38,7 +38,7 @@
   {
     "id": "5",
     "name": "Android Development",
-    "img": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=900&t=st=1666636668~exp=1666637268~hmac=7a0dc2b2bb1aee762897e1447e723cdf7dc13a1e3c040b7d89f8e254a7426337",
+    "img": "https://i.postimg.cc/TP22rk8y/05.webp",
     "student": "1231",
     "description": " Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and other open source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets.",
     "instructor": " Prof. John Maina M.",
@@ -47,7 +47,7 @@
   {
     "id": "6",
     "name": "Data Science",
-    "img": "https://img.freepik.com/free-vector/data-science-programming_39422-1055.jpg?w=900&t=st=1666636348~exp=1666636948~hmac=1f8fb3069521091f5f4ff9f239a2bdcd10d9fbe24fb3d0d71401e8adbfc6df9c",
+    "img": "https://i.postimg.cc/BnKHrnt5/06.webp",
     "student": "894",
     "description": " Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data.",
     "instructor": " Prof. Thamsanqa M.",
@@ -56,7 +56,7 @@
   {
     "id": "7",
     "name": "Linux Administration",
-    "img": "https://img.freepik.com/free-vector/gradient-isometric-laptop-technology-background_52683-4501.jpg?w=900&t=st=1666636826~exp=1666637426~hmac=ba779072a30af249bf50c14e4f9992e9a6ee8d8fb3580e23407b366383ffb15b",
+    "img": "https://i.postimg.cc/WpZQ9MwX/07.webp",
     "student": "643",
     "description": " Linux is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution.",
     "instructor": " Prof. Nikunj Krishna R.",
@@ -65,7 +65,7 @@
   {
     "id": "8",
     "name": "DevOps",
-    "img": "https://img.freepik.com/free-vector/devops-isometric-banner-development-operation_107791-2943.jpg?w=996&t=st=1666636943~exp=1666637543~hmac=d20b4adfd7223820d0c2e7a6ff467795525021ad984344931290b78da713ae24",
+    "img": "https://i.postimg.cc/wTBHww0L/08.webp",
     "student": "986",
     "description": " DevOps is a set of practices that combines software development (Dev) and information-technology operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.",
     "instructor": " Prof. Anil Kumar",
@@ -74,7 +74,7 @@
   {
     "id": "9",
     "name": "Amazon AWS",
-    "img": "https://img.freepik.com/free-vector/digital-cloud-computing-technology_1017-31873.jpg?w=900&t=st=1666637016~exp=1666637616~hmac=bc72e3a3a9d00a962bedfa76c040cac6777796b2a29e313c69d800e12f95a904",
+    "img": "https://i.postimg.cc/G20GQ8RT/09.webp",
     "student": "793",
     "description": " Amazon Web Services (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. These cloud computing web services provide a variety of basic abstract technical infrastructure and distributed computing building blocks and tools.",
     "instructor": " Prof. Kunal Kushwaha",
